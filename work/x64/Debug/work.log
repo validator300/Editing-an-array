@@ -1,0 +1,3 @@
+﻿  work.cpp
+C:\Users\Angel\Desktop\C++\Editing an array\work\work.cpp(80,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  work.vcxproj -> C:\Users\Angel\Desktop\C++\Editing an array\x64\Debug\work.exe
